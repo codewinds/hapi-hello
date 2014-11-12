@@ -9,7 +9,7 @@
   "author": "",
   "dependencies": {
     "bench-rest": "~1.0.1",
-    "cluster-master-ext": "~1.0.1",
+    "cluster-master-ext": "~1.0.2",
     "hapi": "~7.5.2"
   },
   "license": "ISC"
